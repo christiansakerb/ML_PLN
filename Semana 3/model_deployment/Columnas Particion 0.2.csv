@@ -1,0 +1,64 @@
+,Column
+0,Year
+1,Mileage
+2,State_ AK
+3,State_ AL
+4,State_ AR
+5,State_ AZ
+6,State_ CA
+7,State_ CO
+8,State_ CT
+9,State_ DC
+10,State_ DE
+11,State_ FL
+12,State_ GA
+13,State_ HI
+14,State_ IA
+15,State_ ID
+16,State_ IL
+17,State_ IN
+18,State_ KS
+19,State_ KY
+20,State_ LA
+21,State_ MA
+22,State_ MD
+23,State_ ME
+24,State_ MI
+25,State_ MN
+26,State_ MO
+27,State_ MS
+28,State_ MT
+29,State_ NC
+30,State_ ND
+31,State_ NE
+32,State_ NH
+33,State_ NJ
+34,State_ NM
+35,State_ NV
+36,State_ NY
+37,State_ OH
+38,State_ OK
+39,State_ OR
+40,State_ PA
+41,State_ RI
+42,State_ SC
+43,State_ SD
+44,State_ TN
+45,State_ TX
+46,State_ UT
+47,State_ VA
+48,State_ VT
+49,State_ WA
+50,State_ WI
+51,State_ WV
+52,State_ WY
+53,Make-Mod_BMW3
+54,Make-Mod_ChevroletSilverado
+55,Make-Mod_FordF-1504WD
+56,Make-Mod_FordFusionSE
+57,Make-Mod_GMCSierra
+58,Make-Mod_HondaAccord
+59,Make-Mod_HondaCivic
+60,Make-Mod_JeepGrand
+61,Make-Mod_JeepWrangler
+62,Make-Mod_VolkswagenJetta

@@ -1,0 +1,105 @@
+,Column
+0,Year
+1,Mileage
+2,State_ AK
+3,State_ AL
+4,State_ AR
+5,State_ AZ
+6,State_ CA
+7,State_ CO
+8,State_ CT
+9,State_ DC
+10,State_ DE
+11,State_ FL
+12,State_ GA
+13,State_ HI
+14,State_ IA
+15,State_ ID
+16,State_ IL
+17,State_ IN
+18,State_ KS
+19,State_ KY
+20,State_ LA
+21,State_ MA
+22,State_ MD
+23,State_ ME
+24,State_ MI
+25,State_ MN
+26,State_ MO
+27,State_ MS
+28,State_ MT
+29,State_ NC
+30,State_ ND
+31,State_ NE
+32,State_ NH
+33,State_ NJ
+34,State_ NM
+35,State_ NV
+36,State_ NY
+37,State_ OH
+38,State_ OK
+39,State_ OR
+40,State_ PA
+41,State_ RI
+42,State_ SC
+43,State_ SD
+44,State_ TN
+45,State_ TX
+46,State_ UT
+47,State_ VA
+48,State_ VT
+49,State_ WA
+50,State_ WI
+51,State_ WV
+52,State_ WY
+53,Make-Mod_BuickEnclaveLeather
+54,Make-Mod_CadillacCTS
+55,Make-Mod_CadillacSRXLuxury
+56,Make-Mod_ChevroletMalibu1LT
+57,Make-Mod_ChevroletMalibuLS
+58,Make-Mod_ChevroletSuburban4WD
+59,Make-Mod_ChevroletTahoe2WD
+60,Make-Mod_ChevroletTahoe4WD
+61,Make-Mod_ChevroletTraverseFWD
+62,Make-Mod_Chrysler200Limited
+63,Make-Mod_FordEdgeSEL
+64,Make-Mod_FordEscape4WD
+65,Make-Mod_FordEscapeFWD
+66,Make-Mod_FordExplorer4WD
+67,Make-Mod_FordExplorerLimited
+68,Make-Mod_FordF-150Lariat
+69,Make-Mod_FordFocusSE
+70,Make-Mod_FordTransit
+71,Make-Mod_GMCAcadiaAWD
+72,Make-Mod_GMCAcadiaFWD
+73,Make-Mod_GMCTerrainAWD
+74,Make-Mod_GMCYukon
+75,Make-Mod_GMCYukon4WD
+76,Make-Mod_HondaAccordEX-L
+77,Make-Mod_HondaCR-VEX
+78,Make-Mod_HondaCR-VLX
+79,Make-Mod_HondaCivicLX
+80,Make-Mod_HondaOdysseyEX-L
+81,Make-Mod_HondaPilotEX-L
+82,Make-Mod_HyundaiElantra4dr
+83,Make-Mod_HyundaiSonata4dr
+84,Make-Mod_INFINITIG37
+85,Make-Mod_JeepCompassSport
+86,Make-Mod_JeepPatriotSport
+87,Make-Mod_KiaOptimaEX
+88,Make-Mod_KiaSoul+
+89,Make-Mod_LexusES
+90,Make-Mod_LexusIS
+91,Make-Mod_LexusRXRX
+92,Make-Mod_Mercedes-BenzC-ClassC300
+93,Make-Mod_Mercedes-BenzE-ClassE350
+94,Make-Mod_NissanAltima4dr
+95,Make-Mod_NissanMuranoAWD
+96,Make-Mod_Ram25004WD
+97,Make-Mod_SubaruImpreza
+98,Make-Mod_SubaruOutback2.5i
+99,Make-Mod_ToyotaCamry4dr
+100,Make-Mod_ToyotaCorollaS
+101,Make-Mod_ToyotaPrius
+102,Make-Mod_ToyotaTacoma2WD
+103,Make-Mod_ToyotaTacoma4WD

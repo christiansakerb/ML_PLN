@@ -1,0 +1,80 @@
+,Column
+0,Year
+1,Mileage
+2,State_ AK
+3,State_ AL
+4,State_ AR
+5,State_ AZ
+6,State_ CA
+7,State_ CO
+8,State_ CT
+9,State_ DE
+10,State_ FL
+11,State_ GA
+12,State_ HI
+13,State_ IA
+14,State_ ID
+15,State_ IL
+16,State_ IN
+17,State_ KS
+18,State_ KY
+19,State_ LA
+20,State_ MA
+21,State_ MD
+22,State_ ME
+23,State_ MI
+24,State_ MN
+25,State_ MO
+26,State_ MS
+27,State_ MT
+28,State_ NC
+29,State_ ND
+30,State_ NE
+31,State_ NH
+32,State_ NJ
+33,State_ NM
+34,State_ NV
+35,State_ NY
+36,State_ OH
+37,State_ OK
+38,State_ OR
+39,State_ PA
+40,State_ RI
+41,State_ SC
+42,State_ SD
+43,State_ TN
+44,State_ TX
+45,State_ UT
+46,State_ VA
+47,State_ VT
+48,State_ WA
+49,State_ WI
+50,State_ WV
+51,State_ WY
+52,Make-Mod_BMW5
+53,Make-Mod_ChevroletCamaroCoupe
+54,Make-Mod_ChevroletCruzeSedan
+55,Make-Mod_ChevroletEquinoxAWD
+56,Make-Mod_ChevroletEquinoxFWD
+57,Make-Mod_ChevroletMalibuLT
+58,Make-Mod_ChryslerTown
+59,Make-Mod_DodgeGrand
+60,Make-Mod_DodgeRam
+61,Make-Mod_FordEscapeSE
+62,Make-Mod_FordExplorerXLT
+63,Make-Mod_FordF-1502WD
+64,Make-Mod_FordF-150XLT
+65,Make-Mod_FordSuper
+66,Make-Mod_GMCTerrainFWD
+67,Make-Mod_HondaCR-VEX-L
+68,Make-Mod_HyundaiSanta
+69,Make-Mod_KiaOptimaLX
+70,Make-Mod_KiaSorentoLX
+71,Make-Mod_LandRover
+72,Make-Mod_LexusRX
+73,Make-Mod_MINICooper
+74,Make-Mod_ToyotaCamryLE
+75,Make-Mod_ToyotaCamrySE
+76,Make-Mod_ToyotaCorollaLE
+77,Make-Mod_ToyotaTundra
+78,Make-Mod_VolkswagenPassat4dr

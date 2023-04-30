@@ -1,0 +1,130 @@
+,Column
+0,Year
+1,Mileage
+2,State_ AK
+3,State_ AL
+4,State_ AR
+5,State_ AZ
+6,State_ CA
+7,State_ CO
+8,State_ CT
+9,State_ DE
+10,State_ FL
+11,State_ GA
+12,State_ HI
+13,State_ IA
+14,State_ ID
+15,State_ IL
+16,State_ IN
+17,State_ KS
+18,State_ KY
+19,State_ LA
+20,State_ MA
+21,State_ MD
+22,State_ ME
+23,State_ MI
+24,State_ MN
+25,State_ MO
+26,State_ MS
+27,State_ MT
+28,State_ NC
+29,State_ ND
+30,State_ NE
+31,State_ NH
+32,State_ NJ
+33,State_ NM
+34,State_ NV
+35,State_ NY
+36,State_ OH
+37,State_ OK
+38,State_ OR
+39,State_ PA
+40,State_ RI
+41,State_ SC
+42,State_ SD
+43,State_ TN
+44,State_ TX
+45,State_ UT
+46,State_ VA
+47,State_ VT
+48,State_ WA
+49,State_ WI
+50,State_ WV
+51,State_ WY
+52,Make-Mod_AcuraMDX4WD
+53,Make-Mod_AcuraRDXFWD
+54,Make-Mod_AcuraTL4dr
+55,Make-Mod_AudiA8
+56,Make-Mod_BMW1
+57,Make-Mod_BMWX3AWD
+58,Make-Mod_BuickRegalPremium
+59,Make-Mod_BuickRegalTurbo
+60,Make-Mod_CadillacDTS4dr
+61,Make-Mod_ChevroletColorado2WD
+62,Make-Mod_ChevroletColoradoExtended
+63,Make-Mod_ChevroletSonicHatch
+64,Make-Mod_ChevroletTahoe4dr
+65,Make-Mod_Chrysler300Limited
+66,Make-Mod_DodgeCaliber4dr
+67,Make-Mod_DodgeDakota4WD
+68,Make-Mod_FIAT500Pop
+69,Make-Mod_FordEscapeXLT
+70,Make-Mod_FordExpedition2WD
+71,Make-Mod_FordExpedition4WD
+72,Make-Mod_FordExpeditionLimited
+73,Make-Mod_FordExplorer
+74,Make-Mod_FordF-150STX
+75,Make-Mod_FordF-350Lariat
+76,Make-Mod_FordFocusTitanium
+77,Make-Mod_FordFusionSEL
+78,Make-Mod_FordRanger2WD
+79,Make-Mod_FordTaurus4dr
+80,Make-Mod_FordTaurusSHO
+81,Make-Mod_HondaCivicEX-L
+82,Make-Mod_HondaPilotEX
+83,Make-Mod_HondaPilotLX
+84,Make-Mod_HyundaiTucsonLimited
+85,Make-Mod_INFINITIQX564WD
+86,Make-Mod_JeepLibertySport
+87,Make-Mod_JeepWrangler2dr
+88,Make-Mod_JeepWranglerRubicon
+89,Make-Mod_JeepWranglerSahara
+90,Make-Mod_KiaForte
+91,Make-Mod_KiaRioLX
+92,Make-Mod_KiaSorento2WD
+93,Make-Mod_KiaSportageEX
+94,Make-Mod_LexusCTCT
+95,Make-Mod_LexusLSLS
+96,Make-Mod_LincolnMKXFWD
+97,Make-Mod_LincolnMKZ4dr
+98,Make-Mod_LincolnNavigator4WD
+99,Make-Mod_MazdaCX-9AWD
+100,Make-Mod_MazdaCX-9Touring
+101,Make-Mod_MazdaMazda35dr
+102,Make-Mod_MazdaMazda64dr
+103,Make-Mod_Mercedes-BenzSprinter
+104,Make-Mod_Nissan350Z2dr
+105,Make-Mod_NissanFrontier2WD
+106,Make-Mod_NissanFrontier4WD
+107,Make-Mod_NissanPathfinder2WD
+108,Make-Mod_NissanTitan
+109,Make-Mod_NissanTitan2WD
+110,Make-Mod_NissanVersa4dr
+111,Make-Mod_NissanVersa5dr
+112,Make-Mod_NissanXterra4WD
+113,Make-Mod_Porsche911
+114,Make-Mod_PorscheBoxster2dr
+115,Make-Mod_Ram35004WD
+116,Make-Mod_SciontC2dr
+117,Make-Mod_ScionxB5dr
+118,Make-Mod_SubaruForester2.5X
+119,Make-Mod_SubaruOutback3.6R
+120,Make-Mod_Toyota4Runner4dr
+121,Make-Mod_Toyota4RunnerLimited
+122,Make-Mod_Toyota4RunnerRWD
+123,Make-Mod_ToyotaHighlanderBase
+124,Make-Mod_ToyotaRAV4Base
+125,Make-Mod_ToyotaTundraLimited
+126,Make-Mod_ToyotaYaris
+127,Make-Mod_VolkswagenTiguan2WD
+128,Make-Mod_VolvoXC60T6
