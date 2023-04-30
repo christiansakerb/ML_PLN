@@ -6,7 +6,7 @@ import joblib
 import sys
 import os
 
-def predict_price(Diccionario):
+def predict_price(Year,Mileage,State,Make,Model):
     Particiones = [0.2,0.4,0.6,0.8,0.9,0.95,0.985,1]
     Particiones_marcas_df = pd.read_excel('Particiones_marcas.xlsx')
     #Transformacion para manejar mismo lenguaje
@@ -17,7 +17,13 @@ def predict_price(Diccionario):
             [Particiones_marcas_df['Particion']==i][['Make','Model']]
     #
     #Revisado
-    
+    Diccionario={'Year':[Year],
+                   'Mileage':[Mileage],
+                   'State':[State],
+                   'Make':[Make],
+                   'Model':[Model]}
+
+
     df_api = pd.DataFrame(Diccionario)
     #Transformación
     df_api = df_api.reset_index().rename(columns={'index':'ID'})
@@ -91,9 +97,9 @@ def predict_price(Diccionario):
         yIndex = A_Predecir[i]['id']
         Predicciones[i]=pd.DataFrame(zip(yIndex,yPred),columns=['ID','Price'])
     
-    Prediccion_api = pd.concat(Predicciones.values()).sort_values('ID').set_index('ID')
+    Prediccion_api = pd.concat(Predicciones.values()).sort_values('ID').set_index('ID').to_numpy()
 
-    return Prediccion_api
+    return Prediccion_api[0][0]
 
 
 if __name__ == "__main__":
